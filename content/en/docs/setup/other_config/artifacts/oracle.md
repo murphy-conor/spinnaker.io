@@ -1,7 +1,7 @@
 ---
 
 title:  "Configuring Oracle Object Storage Artifact Credentials"
-description: Spinnaker supports ORacle Object Storage as an artifact source.
+description: Spinnaker supports Oracle Object Storage as an artifact source.
 ---
 
 Spinnaker stages that read data from artifacts can consume
