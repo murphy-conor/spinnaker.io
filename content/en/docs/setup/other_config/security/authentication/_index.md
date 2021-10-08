@@ -41,7 +41,7 @@ client certificates can be used in addition to any of these services, or used st
 
 ## Incognito mode
 
-![Incognito logo](./incognito.png){:width="50px"}
+![Incognito logo](./incognito.png)
 
 Getting the authentication working rarely happens on the first try. Each login attempt
  during configuration (or development) causes a new session to be established in Gate's session
