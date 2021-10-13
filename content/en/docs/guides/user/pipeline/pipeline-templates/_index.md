@@ -31,7 +31,7 @@ about the variables the template uses.
 
   [Save a pipeline template](/docs/guides/user/pipeline/pipeline-templates/create/#4-save-the-template) to Spinnaker to make it available to developers.
 
-* [Use the `spin` CLI to plan how to parameterize the
+* [Use the spin CLI to plan how to parameterize the
 template](/docs/guides/user/pipeline/pipeline-templates/plan/) by visualizing a hydrated pipeline.
 
 * [Create a pipeline based on a template](/docs/guides/user/pipeline/pipeline-templates/instantiate/).
